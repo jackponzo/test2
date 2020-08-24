@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=C:\Qt\5.9.9\mingw53_32\ -G "CodeBlocks - MinGW Makefiles" "C:\Users\Giacomo Ponzuoli\Desktop\c++\qtHelloWorld"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Giacomo Ponzuoli/Desktop/c++/qtHelloWorld/cmake-build-debug

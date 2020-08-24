@@ -1,0 +1,4 @@
+C:/Users/Giacomo Ponzuoli/Desktop/c++/qtHelloWorld/cmake-build-debug/CMakeFiles/qtHelloWorld.dir
+C:/Users/Giacomo Ponzuoli/Desktop/c++/qtHelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Giacomo Ponzuoli/Desktop/c++/qtHelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Giacomo Ponzuoli/Desktop/c++/qtHelloWorld/cmake-build-debug/CMakeFiles/qtHelloWorld_autogen.dir
